@@ -1,7 +1,7 @@
 package com.bilalarslan.utils;
 
 public class PermaLink {
-    //GITHUB   ;
+    //GITHUB   ; https://github.com/arsbilCENG/EE9denemesi
 
 
 }
